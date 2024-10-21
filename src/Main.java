@@ -11,8 +11,8 @@ public class Main {
         library.add_book("红楼梦","曹雪芹","12346");
         library.add_book("红楼梦","曹雪芹","12346");
         library.add_book("三国演义","罗贯中","12347");
-        library.add_book("红楼梦","罗贯中","12347");
-        library.add_book("红楼梦","罗贯中","12347");
+        library.add_book("红楼梦","曹雪芹","12347");
+        library.add_book("红楼梦","曹雪芹","12347");
         library.add_book("三体","刘慈欣","12348");
         library.add_book("三体","刘慈欣","12348");
         System.out.println("library all books:");
