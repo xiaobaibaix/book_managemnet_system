@@ -1,3 +1,4 @@
+
 public class Main {
     public static void main(String[] args) {
 
@@ -18,8 +19,14 @@ public class Main {
         library.print_books();
 
         Student xiaohua=new Student("22070601012","xiaohua");
-
+        //借书
         xiaohua.borrowBook(library,"水浒传");
+        xiaohua.borrowBook(library,"西游记");
+
+        System.out.println();
+        System.out.println("Student all books:");
+        xiaohua.print_books();
+
         xiaohua.borrowBook(library,"西游记");
         xiaohua.borrowBook(library,"西游记");
         xiaohua.borrowBook(library,"西游记");
@@ -31,5 +38,30 @@ public class Main {
         System.out.println();
         System.out.println("library all books:");
         library.print_books();
+
+        //还书
+        xiaohua.returnBook(library,"水浒传");
+        xiaohua.returnBook(library,"水浒传");
+        xiaohua.returnBook(library,"水浒传");
+
+        System.out.println();
+        System.out.println("Student all books:");
+        xiaohua.print_books();
+
+        System.out.println();
+        System.out.println("library all books:");
+        library.print_books();
+
+        xiaohua.returnBook(library,"西游记");
+        xiaohua.returnBook(library,"三体");
+
+        System.out.println();
+        System.out.println("Student all books:");
+        xiaohua.print_books();
+
+        System.out.println();
+        System.out.println("library all books:");
+        library.print_books();
     }
+
 }
