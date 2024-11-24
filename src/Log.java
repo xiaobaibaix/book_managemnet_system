@@ -11,4 +11,9 @@ public class Log {
         File.writeInfoAppend("./lib/logs.txt",info);
         System.out.println("Log>>>   "+info);
     }
+
+    void add(){
+
+
+    }
 }
