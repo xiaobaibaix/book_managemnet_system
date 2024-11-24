@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bc97ae1-3eac-47e7-b810-9fce2b8a1adf" name="更改" comment="ver 2.0" />
+    <list default="true" id="1bc97ae1-3eac-47e7-b810-9fce2b8a1adf" name="更改" comment="ver 2.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/book_info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/book_info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/logs.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,14 +22,30 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/xiaobaibaix/book_managemnet_system.git",
-    "accountId": "176659be-6526-46d1-99fe-dd7b7c5ee8bd"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xiaobaibaix&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xiaobaibaix/book_managemnet_system.git&quot;,
+    &quot;accountId&quot;: &quot;176659be-6526-46d1-99fe-dd7b7c5ee8bd&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -41,10 +61,10 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "正在合并 master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "F:/work/idea/BookManageSystem/src/Main.java",
-    "应用程序.Main.executor": "Debug"
+    "应用程序.Main.executor": "Run"
   }
 }]]></component>
   <component name="RunManager">
@@ -86,7 +106,71 @@
       <option name="project" value="LOCAL" />
       <updated>1732448541117</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ver 2.0">
+      <option name="closed" value="true" />
+      <created>1732448669095</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732448669095</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ver 2.0">
+      <option name="closed" value="true" />
+      <created>1732448693762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732448693762</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ver 2.0">
+      <option name="closed" value="true" />
+      <created>1732448819809</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732448819809</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ver 2.0">
+      <option name="closed" value="true" />
+      <created>1732449098058</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732449098058</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ver 2.0">
+      <option name="closed" value="true" />
+      <created>1732449262776</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732449262776</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ver 2.0">
+      <option name="closed" value="true" />
+      <created>1732449461961</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732449461961</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ver 2.0">
+      <option name="closed" value="true" />
+      <created>1732450107595</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732450107595</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ver 2.0">
+      <option name="closed" value="true" />
+      <created>1732450250594</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732450250594</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,7 +178,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
